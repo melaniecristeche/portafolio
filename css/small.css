@@ -26,11 +26,18 @@
   h2 {
     margin: 0.5rem;
     font-size: 1.5rem;
+    background-color: #ffc14d;
+    text-align: center;
+    border-radius: 10px;
 
+  }
+  h3 {
+    margin: 0.5rem;
   }
   
   li {
     margin: 0.5rem;
+    list-style-type: none;
   }
   
   p {
@@ -104,4 +111,9 @@ a {
 footer{
   display: grid;
   grid-template-columns: 1fr 1fr ;
+}
+
+.prog_logos {
+  float: left;
+  margin-right: 0.5rem;
 }
