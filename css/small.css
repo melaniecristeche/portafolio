@@ -87,13 +87,14 @@
 .social-media {
 
   margin-left: 0.5rem;
-  border-radius: 12px;
-  width: 8.5%;
+  border-radius: 35px;
   }
 
-.social-images {
+/* .social-images {
   margin: 1rem;
-}
+} */
+
+
 img {
   max-width: 100%;
   }
@@ -116,4 +117,9 @@ footer{
 .prog_logos {
   float: left;
   margin-right: 0.5rem;
+}
+
+.social-contact {
+  display: flex;
+  
 }
