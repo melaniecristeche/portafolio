@@ -109,10 +109,6 @@ a {
   text-decoration-line: none;
 }
 
-footer{
-  display: grid;
-  grid-template-columns: 1fr 1fr ;
-}
 
 .prog_logos {
   float: left;
